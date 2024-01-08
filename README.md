@@ -1,6 +1,6 @@
 ### Data Structures Examples
 
-- [ ] Recursive Function
+- [X] Recursive Function
 - [ ] Struct Node
 - [ ] Single Linked Lists
   - [ ] Search in Linked Lists
